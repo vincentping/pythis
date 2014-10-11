@@ -1,7 +1,7 @@
-that
+these
 ~~~~~~
 
-that is the zen of python in Simplified Chinese.  
+'these' is the zen of python in Simplified Chinese.  
 
 
 Usage
@@ -13,4 +13,4 @@ Just like the zen in python, you type::
 
 To show the Simplified Chinese version, you type::
 
-    import that
+    import these
