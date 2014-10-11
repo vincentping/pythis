@@ -1,10 +1,6 @@
 #! /usr/bin/env python
 # -*- coding=utf-8 -*-
 
-import sys
-reload(sys)
-sys.setdefaultencoding('utf-8')
-
 s = u"""Clguba齚琠——恏髞耼 涪懔
 
 麍渗泉鼗龔坚。
