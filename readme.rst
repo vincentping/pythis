@@ -4,6 +4,13 @@ these
 'these' is the zen of python in Simplified Chinese.  
 
 
+Install
+--------
+
+install using pip::
+
+    pip install these
+    
 Usage
 --------
 
