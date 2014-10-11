@@ -4,7 +4,7 @@
 from distutils.core import setup
 setup(
     name='pythis',
-    version='1.0',
+    version='1.1',
     
     description='zen of python in Simplified Chinese',
     url='https://github.com/vincentping/pythis',
