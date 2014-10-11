@@ -3,11 +3,11 @@
 
 from distutils.core import setup
 setup(
-    name='these',
+    name='pythis',
     version='1.0',
     
     description='zen of python in Simplified Chinese',
-    url='https://github.com/vincentping/these',
+    url='https://github.com/vincentping/pythis',
     author='Vincent Ping',
     author_email='vincentping@gmail.com',
     license='MIT',
@@ -32,7 +32,7 @@ setup(
     'Programming Language :: Python :: 3.3',
     'Programming Language :: Python :: 3.4',
 ],
-    py_modules=['these'],
+    py_modules=['pythis'],
     keywords='zen python chinese',
     )
       
