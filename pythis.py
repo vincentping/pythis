@@ -49,7 +49,7 @@ for x in a:
         b.append(d.get(x, x))
 
 #print ''.join(unichr(x).encode('gb18030') for x in b)
-if sys.version > '3':
+if sys.version_info >= (3,):
     print(''.join(chr(x) for x in b))
 else:
     print(''.join(unichr(x) for x in b))
