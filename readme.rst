@@ -21,3 +21,6 @@ Just like the zen in python, you type::
 To show the Simplified Chinese version, you type::
 
     import pythis
+
+Enjoy & Fun
+------------

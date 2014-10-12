@@ -1,6 +1,8 @@
 #! /usr/bin/env python
 # -*- coding=utf-8 -*-
 
+import sys
+
 s = u"""Clguba齚琠——恏髞耼 涪懔
 
 麍渗泉鼗龔坚。
@@ -47,6 +49,8 @@ for x in a:
         b.append(d.get(x, x))
 
 #print ''.join(unichr(x).encode('gb18030') for x in b)
-print ''.join(unichr(x) for x in b)
-
+if sys.version > '3':
+    print(''.join(chr(x) for x in b))
+else:
+    print(''.join(unichr(x) for x in b))
 #EOF
