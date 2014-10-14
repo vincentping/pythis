@@ -4,8 +4,8 @@
 from distutils.core import setup
 setup(
     name='pythis',
-    version='1.2',
-    
+    version='1.3',
+
     description='zen of python in Simplified Chinese',
     url='https://github.com/vincentping/pythis',
     author='Vincent Ping',
@@ -34,4 +34,5 @@ setup(
     py_modules=['pythis'],
     keywords='zen python chinese',
     )
-      
+
+#EOF
